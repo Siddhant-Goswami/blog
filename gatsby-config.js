@@ -33,4 +33,6 @@ module.exports = {
       },
     ],
   },
+  // Path prefix
+  pathPrefix: `/blog`,
 }

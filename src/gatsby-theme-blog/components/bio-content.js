@@ -8,7 +8,7 @@ import { Styled } from "theme-ui"
 export default function Bio() {
   return (
     <>
-      Hi, I'm <Styled.a href="siddhantgoswami.com/">Siddhant Goswami</Styled.a>
+      Hi, I'm <Styled.a href="https://siddhantgoswami.com/">Siddhant Goswami</Styled.a>
       {` `}
 
       <br />
